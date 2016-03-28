@@ -4,7 +4,6 @@
 ## the matrix and will retrieve the inverse from the cache if the inverse has already been
 ## calculated.
 
-
 ## This is the first function (makeCacheMatrix) which creates 
 ## a matrix that will cache its inverse. 
 
